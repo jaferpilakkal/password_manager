@@ -17,6 +17,13 @@ Executable available for Windows.
 
 Hash (SHA-256) provided to verify downloaded files.
 
+## How to run
+
+The main executable file is "Password Manager.exe" in dist folder inside the repo
+
+just copy the file to any local folder of your windows device and simply run
+
+
 ### Verifying the Executable
 
 To verify the integrity of the downloaded `Password Manager.exe` file, run the following command in your terminal or Command Prompt inside the folder containing the file:
