@@ -1,7 +1,16 @@
-*.exe
-dist/
-build/
+# IDE & Editor
 .idea/
-build/Password Manager/
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
 
+# Build
+build/
+dist/
+*.exe
