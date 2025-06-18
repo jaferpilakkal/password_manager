@@ -19,17 +19,18 @@ Hash (SHA-256) provided to verify downloaded files.
 
 ## How to run
 
-The main executable file is "Password Manager.exe" in dist folder inside the repo
+The main executable file is "Password Manager.exe" under releases 
+(direct link : https://github.com/jaferpilakkal/password_manager/releases/download/v1.0/Password.Manager.exe)
 
 just copy the file to any local folder of your windows device and simply run
 
 
 ### Verifying the Executable
 
-To verify the integrity of the downloaded `Password Manager.exe` file, run the following command in your terminal or Command Prompt inside the folder containing the file:
+To verify the integrity of the downloaded `Password Manager.exe` file, 
+run the following command in your terminal or Command Prompt inside the folder containing the file:
 
-" ```cmd
-certutil -hashfile password_manager.exe SHA256" 
+" certutil -hashfile password_manager.exe SHA256" 
 
 You should get an output like this:
 
